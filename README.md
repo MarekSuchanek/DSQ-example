@@ -36,7 +36,7 @@ Try it and find definite answer...
 
 ### Local
 
-* [Workflow and Description](resources/worklow.md)
+* [Workflow and Description](resources/workflow.md)
 
 ### External
 
