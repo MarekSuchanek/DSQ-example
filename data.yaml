@@ -1,0 +1,36 @@
+# This file is synchronized with DS-KM
+title: Is it possible to use GitHub for DS Question?
+shortuid: example
+uuid: ccc0e728-8a13-458c-9f17-40554191c644
+text: Is possible to use GitHub for DS Question information, resources, discussion, and improvement, while being still connected do DS-KM and DS Wizard/Portal?
+answers:
+  - answer: Yes
+    text: Yey! Let's do it and be happy.
+    followups:
+      - name: How to interlink with DS-KM?
+        repo: MarekSuchanek/DSQ-abc
+      - name: How to handle forking?
+        repo: MarekSuchanek/DSQ-abc
+  - answer: No
+    text: Find other solution ASAP!
+  - answer: Maybe
+    text: Try it and find definite answer...
+experts:
+  - name: Marek Suchánek
+    affiliation: FIT, CTU in Prague
+    email: marek.suchanek@fit.cvut.cz
+  - name: Robert Pergl
+    affiliation: FIT, CTU in Prague
+    email: robert.pergl@fit.cvut.cz
+resources:
+  local:
+    - name: Workflow and Description
+      file: workflow.md
+  external:
+    - name: GitHub Issues
+      url: https://guides.github.com/features/issues/
+    - name: Travis CI
+      url: https://travis-ci.org
+  ds4os:
+    - name: Is there pre-existing data?
+      shortuid: atq
