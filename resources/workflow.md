@@ -10,4 +10,4 @@
 5. CI tools won't be located in each repository but developed in separate repository and installed on Travis CI (e.g., via `pip install`). There should be some periodical CI runs (daily?) for question repositories.
 6. Generated `README.md` should be highly linked with DSP and DS-KM ("Go to question in DSP", "Pick your answer in DSP", "Check question in DS-KM", etc.)
 
-![Octocat](../../raw/master/resources/Octocat.png)
+![Octocat](https://github.com/MarekSuchanek/DSQ-example/raw/master/resources/Octocat.png)
