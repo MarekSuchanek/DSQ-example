@@ -37,6 +37,7 @@ Try it and find definite answer...
 ### Local
 
 * [Workflow and Description](resources/workflow.md)
+* [DS4OS book page](resources/ds4os.md)
 
 ### External
 

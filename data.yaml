@@ -26,6 +26,8 @@ resources:
   local:
     - name: Workflow and Description
       file: workflow.md
+    - name: DS4OS book page
+      file: ds4os.md
   external:
     - name: GitHub Issues
       url: https://guides.github.com/features/issues/
